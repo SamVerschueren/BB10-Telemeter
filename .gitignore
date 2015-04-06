@@ -1,6 +1,4 @@
-arm/o.le-v7-g/Telemeter
-arm/o.le-v7-g/.moc/*
-arm/o.le-v7/.moc/*
+arm/
 .DS_Store
 *.o
 *.0
